@@ -1,0 +1,2 @@
+rootProject.name='MyCalculatorIntentsWebview App'
+include ':app'
